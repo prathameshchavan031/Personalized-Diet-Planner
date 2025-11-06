@@ -1,5 +1,9 @@
 # Personalized Diet Planner 🥗
 
+[![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
+[![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-orange.svg)](https://scikit-learn.org/)
+
 A smart web-based application that provides personalized diet recommendations based on individual characteristics and preferences. Using machine learning, it analyzes various factors to suggest the most suitable diet plan for each user.
 
 ## 📱 Application Interface
@@ -109,13 +113,30 @@ The application uses a Decision Tree Classifier with the following characteristi
 - Random state: 42
 - Features: Age, Gender, BMI, Health Condition, Allergies, Food Preference
 
-## 🛠️ Requirements
+## � Requirements
 
 - Python 3.6+
 - Flask (Web Framework)
 - pandas (Data Processing)
 - numpy (Numerical Operations)
 - scikit-learn (Machine Learning)
+
+## 🤝 How to Contribute
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/awesome-feature`)
+3. Make your changes
+4. Commit your changes (`git commit -am 'Add new feature'`)
+5. Push to the branch (`git push origin feature/awesome-feature`)
+6. Create a Pull Request
+
+### Areas for Contribution
+- Add more diet categories
+- Improve model accuracy
+- Enhance UI/UX
+- Add new features
+- Fix bugs
+- Improve documentation
 
 ## 📝 Contributing
 
