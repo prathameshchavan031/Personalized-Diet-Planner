@@ -2,6 +2,8 @@
 
 A smart web-based application that provides personalized diet recommendations based on individual characteristics and preferences. Using machine learning, it analyzes various factors to suggest the most suitable diet plan for each user.
 
+![Diet Planner Interface](docs/images/app_interface.png)
+
 ## 🌟 Features
 
 - User-friendly web interface
