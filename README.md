@@ -128,3 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Add detailed nutritional information for each diet plan
 - Integrate with food tracking APIs
 - Add mobile-responsive design improvements
+=======
+# Personalized-Diet-Planner
+Personalized Diet Planner
+>>>>>>> 91342580468a87906872952c04bfbe359bef86ea
