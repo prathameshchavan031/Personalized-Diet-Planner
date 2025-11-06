@@ -2,7 +2,23 @@
 
 A smart web-based application that provides personalized diet recommendations based on individual characteristics and preferences. Using machine learning, it analyzes various factors to suggest the most suitable diet plan for each user.
 
-![Diet Planner Interface](docs/images/app_interface.png)
+## 📱 Application Interface
+
+Here's how our application looks in action:
+
+![Diet Planner Interface](docs/images/Screenshot%202025-11-06%20131252.png)
+
+### Key Interface Features:
+1. **Clean, User-friendly Design**: Simple form layout with clear input fields
+2. **Input Fields**:
+   - Age (numeric input)
+   - Gender (dropdown selection)
+   - BMI (Body Mass Index)
+   - Health Condition (None/Diabetes/BP)
+   - Allergy (None/Milk/Nuts)
+   - Food Preference (Veg/Non-Veg)
+3. **Instant Results**: Get personalized diet recommendations with one click
+4. **Responsive Layout**: Works well on both desktop and mobile devices
 
 ## 🌟 Features
 
